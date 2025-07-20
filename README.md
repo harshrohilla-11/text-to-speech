@@ -1,10 +1,10 @@
 🎙️ Key Features:
->>>Voice Options:
+Voice Options:
 *Multiple voice selection (male, female, various accents)
 *Automatic categorization by gender and accent (American, British, Australian, Indian)
 *Default voice fallback
 
->>>Audio Controls:
+Audio Controls:
 
 *Adjustable speech speed (0.5x to 2x)
 *Volume control (0% to 100%)
